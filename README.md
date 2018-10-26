@@ -1,3 +1,3 @@
 # BilibiliActivityVideos
-Used to list bilibili activity vedios
+Used to list bilibili activity videos
 ![screenshot](screenshot.png)
